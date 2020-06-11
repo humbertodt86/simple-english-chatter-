@@ -1,1 +1,1 @@
-web: streamlit ron.py
+web: python ron.py
